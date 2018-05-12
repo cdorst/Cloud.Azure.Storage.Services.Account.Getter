@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloud.Azure.Storage.Services.Account.Getter", "Cloud.Azure.Storage.Services.Account.Getter\Cloud.Azure.Storage.Services.Account.Getter.csproj", "{A0316CC5-A031-6CC5-A031-6CC5A0316CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0316CC5-A031-6CC5-A031-6CC5A0316CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0316CC5-A031-6CC5-A031-6CC5A0316CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0316CC5-A031-6CC5-A031-6CC5A0316CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0316CC5-A031-6CC5-A031-6CC5A0316CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = preSolution
+		SolutionGuid = {0106A544-0106-A544-0106-A5440106A544}
+	EndGlobalSection
+EndGlobal
+
